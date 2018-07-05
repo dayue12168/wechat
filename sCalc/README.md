@@ -1,4 +1,4 @@
-# wxapp-sCalc 微信小程序开发入门，适合入门练手
+# sCalc 微信小程序开发入门，适合入门练手
 
 **2018-7-5 更新**
 
@@ -26,7 +26,7 @@
 
 1. Clone the repo
 ```
-$ git clone https://github.com/dunizb/wxapp-sCalc.git
+$ git clone https://github.com/dayue12168/wechat.git
 ```
 2. Import to Wechat DEV Tools
 
